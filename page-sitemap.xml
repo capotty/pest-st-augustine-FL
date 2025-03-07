@@ -32,52 +32,28 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/daytona-beach/</loc>
+		<lastmod>2025-03-07T22:03:01+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/jacksonville/</loc>
-		<lastmod>2025-03-01T00:09:36+00:00</lastmod>
+		<lastmod>2025-03-07T22:03:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/palm-coast/</loc>
-		<lastmod>2025-03-01T00:09:36+00:00</lastmod>
+		<lastmod>2025-03-07T22:03:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/gainesville/</loc>
-		<lastmod>2025-03-01T00:09:36+00:00</lastmod>
+		<lastmod>2025-03-07T22:03:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ormond-beach/</loc>
-		<lastmod>2025-03-01T00:09:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/daytona-beach/</loc>
-		<lastmod>2025-03-01T00:09:36+00:00</lastmod>
+		<lastmod>2025-03-07T22:03:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ant-control/</loc>
 		<lastmod>2025-02-27T22:29:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/silverfish-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/tick-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/moth-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/squirrel-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/raccoon-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/wildlife-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/residential/</loc>
@@ -113,6 +89,30 @@
 	</url>
 	<url>
 		<loc>/mosquito-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/silverfish-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/tick-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/moth-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/squirrel-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/raccoon-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/wildlife-control/</loc>
 		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
